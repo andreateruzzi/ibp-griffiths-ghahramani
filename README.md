@@ -1,4 +1,4 @@
-# The Indian Buffet Process
+# The Indian Buffet Process: slides
 
 In this repo contains the slides regarding the paper [The Indian Buffet Process: An Introduction and Review, T. L. Griffiths, and Z. Ghahramani](https://www.jmlr.org/papers/volume12/griffiths11a/griffiths11a.pdf).
 
